@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BOOKSY</string>
+    <string name="java">JAVA</string>
+    <string name="python">PYTHON</string>
+    <string name="php">PHP</string>
+    <string name="web">WEB</string>
+    <string name="cc">C++</string>
+    <string name="cp">C</string>
+    <string name="kotlin">KOTLIN</string>
+    <string name="sql">SQL</string>
+</resources>
